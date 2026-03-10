@@ -8,8 +8,8 @@ import { Project } from './types';
 const MOCK_PROJECTS: Project[] = [
   {
     id: '1',
-    title: 'OVVO Terminal Bot',
-    description: 'A Telegram bot that allows you to interact with the OVVO Terminal.',
+    title: 'Terminal Bot',
+    description: 'A Telegram bot that allows you to interact with Terminal.',
     tags: ['Telegram', 'Bot', 'Python'],
     date: '2026.01.23',
     status: 'completed',
