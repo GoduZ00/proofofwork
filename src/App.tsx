@@ -31,6 +31,14 @@ const MOCK_PROJECTS: Project[] = [
     date: '2026.03.05',
     status: 'in-progress'
   },
+  {
+    id: '4',
+    title: 'Makenzo',
+    description: 'Sober driver.',
+    tags: ['Car', 'DD', 'Car delivery service'],
+    date: '2026.03.05',
+    status: 'completed'
+  },
 ];
 
 export default function App() {
