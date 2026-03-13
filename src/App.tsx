@@ -37,7 +37,8 @@ const MOCK_PROJECTS: Project[] = [
     description: 'Sober driver.',
     tags: ['Car', 'DD', 'Car delivery service'],
     date: '2026.03.05',
-    status: 'completed'
+    status: 'completed',
+    link: 'https://makenzo.vercel.app/'
   },
 ];
 
