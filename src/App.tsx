@@ -40,6 +40,15 @@ const MOCK_PROJECTS: Project[] = [
     status: 'completed',
     link: 'https://makenzo.vercel.app/'
   },
+  {
+    id: '5',
+    title: 'Sagyz KZ',
+    description: 'Vending machine for snacks and drinks, located in Kazakhstan.',
+    tags: ['Vending Machine', 'Hardware', 'Kazakhstan'],
+    date: '2026.03.13',
+    status: 'completed',
+    link: 'https://sagyzkz.vercel.app/'
+  },
 ];
 
 export default function App() {
