@@ -25,11 +25,11 @@ const MOCK_PROJECTS: Project[] = [
   },
   {
     id: '3',
-    title: 'Traccer GPS',
-    description: 'A GPS tracker for your car.',
-    tags: ['GPS', 'Android', 'iOS', 'Web',],
+    title: 'Parcing Bot',
+    description: 'A bot for parsing and analyzing data.',
+    tags: ['Parsing', 'Analysis', 'Python'],
     date: '2026.03.05',
-    status: 'archived'
+    status: 'in-progress'
   },
 ];
 
